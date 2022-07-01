@@ -16,7 +16,7 @@ I am lifelong learner and technology enthusiast. I am working on Devops Tools an
 - 🔭 I’m currently working on DevOps tools and technologies
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on DevOps
-- 📫 How to reach me: <a href="(https://www.linkedin.com/in/ravindra-shukla-55a15913/)" rel="nofollow noreferrer">
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ravindra-shukla-55a15913/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 
